@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "@pixiv/three-vrm": "^2.0.7",
+    "three": "^0.160.0",
+    "three-vrm": "github:pixiv/three-vrm"
+  },
+  "devDependencies": {
+    "vite": "^5.0.11"
+  }
+}
